@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 ### 演示效果
-![](Ainimate.gif)
+![](15151432215a4f403567258.gif)
 
 #### 实现方式
 实现路由和回退动画方式不同，我们可以通过router.go(-1)方式记录回退的状态， 当需要回退的时候调用this.$router.go(-1)
